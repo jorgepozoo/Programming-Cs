@@ -1,0 +1,10 @@
+D:\winter\C#\Assign7 Jorge\bin\Debug\Assign6.exe.config
+D:\winter\C#\Assign7 Jorge\bin\Debug\Assign6.exe
+D:\winter\C#\Assign7 Jorge\bin\Debug\Assign6.pdb
+D:\winter\C#\Assign7 Jorge\obj\Debug\Assigment7.csproj.AssemblyReference.cache
+D:\winter\C#\Assign7 Jorge\obj\Debug\Assign7.Assigment7.resources
+D:\winter\C#\Assign7 Jorge\obj\Debug\Assign6.Properties.Resources.resources
+D:\winter\C#\Assign7 Jorge\obj\Debug\Assigment7.csproj.GenerateResource.cache
+D:\winter\C#\Assign7 Jorge\obj\Debug\Assigment7.csproj.CoreCompileInputs.cache
+D:\winter\C#\Assign7 Jorge\obj\Debug\Assign6.exe
+D:\winter\C#\Assign7 Jorge\obj\Debug\Assign6.pdb
